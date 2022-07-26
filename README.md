@@ -1,4 +1,4 @@
-# Promeo TP-2FA
+# Project-2FA-Symfony
 
-EL YAMANI Abdelbassat 
-BTS SIO 22
+Project 2FA login-system
+ 
